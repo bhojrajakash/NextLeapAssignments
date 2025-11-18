@@ -62,7 +62,7 @@ def looks_like_advice(q: str) -> bool:
 
 if query:
     if looks_like_advice(query):
-        st.warning("I provide facts only, not investment advice. For investor education visit: https://www.amfiindia.com/investor-corner/knowledge-center")
+        st.warning("I provide facts only, not investment advice. For investor education visit: https://www.amfiindia.com/investor")
     else:
         try:
             answer = engine.answer(query)
