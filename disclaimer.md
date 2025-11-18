@@ -30,7 +30,7 @@ Consult SEBI-registered Investment Advisors (RIA), Certified Financial Planners 
 or qualified tax professionals.
 
 FOR INVESTOR EDUCATION:
-Visit: https://www.amfiindia.com/investor-corner/knowledge-center
+https://www.amfiindia.com/investor
 
 ═══════════════════════════════════════════════════════════
 
