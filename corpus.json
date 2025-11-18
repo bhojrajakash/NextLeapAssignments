@@ -1,9 +1,23 @@
 [
   {
     "id": "sbi_bluechip",
-    "title": "SBI Large Cap Fund",
-    "text": "...",
-    "source": "url",
+    "title": "SBI Large Cap Fund (formerly SBI Bluechip Fund)",
+    "text": "SBI Large Cap Fund expense ratio approx 0.81% Direct and 1.48%–1.50% Regular. Exit load 0.25% within 30 days; 0.10% between 30–90 days. Riskometer Very High.",
+    "source": "https://www.sbimf.com/sbimf-scheme-details/sbi-large-cap-fund-(formerly-known-as-sbi-bluechip-fund)-43",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "sbi_flexicap",
+    "title": "SBI Flexicap Fund",
+    "text": "Minimum SIP ₹500. Benchmark BSE 500 TRI. Expense ratio listed on latest factsheet.",
+    "source": "https://www.sbimf.com/sbimf-scheme-details/sbi-flexicap-fund-39",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "sbi_elss",
+    "title": "SBI ELSS Tax Saver Fund",
+    "text": "ELSS lock-in 3 years. Minimum investment details in KIM/SID. Expense ratio published in scheme factsheet.",
+    "source": "https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3",
     "date": "2025-11-17"
   }
 ]
